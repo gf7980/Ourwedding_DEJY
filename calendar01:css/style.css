@@ -1,0 +1,22 @@
+/* Kurien / Kurien's Blog / http://blog.kurien.co.kr */
+/* ì£¼ì„ë§Œ ì œê±°í•˜ì§€ ì•ŠëŠ”ë‹¤ë©´, ì–´ë–¤ ìš©ë„ë¡œ ì‚¬ìš©í•˜ì…”ë„ ì¢‹ìŠµë‹ˆë‹¤. */
+
+/*@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);*/
+/** {font-family: 'Nanum Gothic', serif;}*/
+
+#kCalendar {width: 100%;padding: 50px 0px 50px 0px; background-color:#f6f6f6;}
+
+#kCalendar #header {height: 40px;line-height: 0;text-align: center;font-size: 18px;font-weight: bold;background-color: #f6f6f6;}
+#kCalendar .button {color: #000; text-decoration: none;    display: none;}
+
+#kCalendar table {width: 100%;height: 400px;padding: 3%;font-size: 13px;}
+#kCalendar caption {display: none;}
+
+#kCalendar .sun {text-align: center;color: #feafaf;}
+#kCalendar .mon {text-align: center;}
+#kCalendar .tue {text-align: center;}
+#kCalendar .wed {text-align: center;}
+#kCalendar .thu {text-align: center;}
+#kCalendar .fri {text-align: center;}
+#kCalendar .sat {text-align: center;color: #6baaff;}
+#kCalendar .weddingday {border: 1px solid #ffb6b6;border-radius: 100%;width: 55px;height: 55px;color: #ffb6b6;}

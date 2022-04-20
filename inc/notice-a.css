@@ -1,0 +1,20 @@
+.notice-a{
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  display: none;
+  font-size: 13px;
+  font-weight: bold;
+  width: 70px;
+  line-height: 20px;
+  z-index: 9999;
+  background: #fff;
+  padding: 15px 0px;
+  border-radius: 100px;
+  border: 3px solid #e6c8c0;
+  color: #333;
+}
+
+.notice-a > img{
+  width: 70px;
+}
